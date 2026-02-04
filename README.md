@@ -8,6 +8,7 @@
 1. IOException과 br.readLine() 을 활용하는 이유
 2. List의 개념과 이론, 실습 (List는 순서와 중복이 있음, 반복 중 삭제는 Iterator)
 3. Java String 핵심 이론, 실습
+4. 데이터 파싱
 
 ## Baekjoon
 
