@@ -1,5 +1,5 @@
 
-# 26년 1월 26일 Java Algorithm 및 개념, 자료구조 실습 시작 (도장 깨기)
+# 26년 1월 26일 Java Algorithm 및 개념, 자료구조, 여러 유형 실습한 내용 정리
 
 ## theory
 1. IOException과 br.readLine() 을 활용하는 이유 - IOExceptionMain
@@ -14,4 +14,5 @@
 10. JVM 분석 실습 - JVMThinkingEx
 11. 스택 실습 - StackEx
 12. 그리디 알고리즘, 동적 프로그래밍 - GreedyAndDP, DpEx
-13. Stream 기본 사용법 - StreamEx, Order, OrderSummary
+13. Stream 기본 사용법 - StreamEx, Order, OrderSummary\
+14. 도서관리 시스템 - 
