@@ -17,3 +17,4 @@
 13. Stream 기본 사용법 - StreamEx, Order, OrderSummary\
 14. 도서관리 시스템 - book package
 15. 택시 예약 시스템 - taxi package
+16. 정렬 알고리즘 실습 - SortAlgoEx
