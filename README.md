@@ -21,3 +21,6 @@
 17. Two Pointer - TwoPointerEx
 18. 이진 탐색 - BinarySearchEx
 19. 그리디 + 우선순위 큐 - GreedyPriorityQueueEx
+
+## 데일리 알고리즘
+1. 두 수의 합 찾기 - TwoSumEx
