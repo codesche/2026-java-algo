@@ -24,3 +24,4 @@
 
 ## 데일리 알고리즘
 1. 두 수의 합 찾기 - TwoSumEx
+2. 올바른 괄호 찾기 - ValidParentheses (Stack)
