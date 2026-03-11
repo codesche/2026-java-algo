@@ -1,4 +1,4 @@
-package exercise;
+package exercise.mvp;
 
 /**
  * 회원 등록

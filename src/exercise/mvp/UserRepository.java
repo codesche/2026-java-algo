@@ -1,4 +1,4 @@
-package exercise;
+package exercise.mvp;
 
 import java.util.ArrayList;
 import java.util.HashMap;

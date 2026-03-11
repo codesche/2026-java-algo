@@ -1,4 +1,4 @@
-package exercise;
+package exercise.mvp;
 
 public class User {
 
