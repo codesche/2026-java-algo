@@ -31,3 +31,4 @@
 ## Exercise
 1. MVC + 계층 구조(Entity → Repository → Service → Controller) 를 한 파일에서 실행 - mvp
 2. 사용자 로그 데이터를 분석하는 프로그램 - logdata
+3. Map, List, Stream, Comparator, Generic - DataStructureEx
