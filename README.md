@@ -27,6 +27,8 @@
 1. 두 수의 합 찾기 - TwoSumEx
 2. 올바른 괄호 찾기 - ValidParentheses (Stack)
 3. 중복 문자가 없는 가장 긴 부분 문자열의 길이 - SlidingWindowEx
+4. 완주하지 못한 선수 - InCompleteRun, InCompleteRun2
+5. 폰켓몬 - PokenMonEx, PokenMonEx2
 
 ## Exercise
 1. MVC + 계층 구조(Entity → Repository → Service → Controller) 를 한 파일에서 실행 - mvp
