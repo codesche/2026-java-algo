@@ -36,3 +36,4 @@
 3. Map, List, Stream, Comparator, Generic - DataStructureEx
 4. 실무 리팩토링 및 코드 개선 작업 사례 - rewardpoint package
 5. 보안 + 성능을 고려한 주문 처리 시스템 - realorder package
+6. 로봇 팔 시뮬레이션 실행 - robotsystem package
