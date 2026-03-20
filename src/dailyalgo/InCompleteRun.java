@@ -1,4 +1,4 @@
-package algorithm;
+package dailyalgo;
 
 /**
  * === 완주하지 못한 선수 ===

@@ -1,4 +1,4 @@
-package algorithm;
+package dailyalgo;
 
 /**
  * Stream을 활용한 폰켓몬 풀이

@@ -1,4 +1,4 @@
-package algorithm;
+package dailyalgo;
 
 /**
  * 폰켓몬 - HashSet 패턴의 문제

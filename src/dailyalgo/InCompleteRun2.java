@@ -1,4 +1,4 @@
-package algorithm;
+package dailyalgo;
 
 import java.util.*;
 
