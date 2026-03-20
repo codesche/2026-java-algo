@@ -29,6 +29,7 @@
 3. 중복 문자가 없는 가장 긴 부분 문자열의 길이 - SlidingWindowEx
 4. 완주하지 못한 선수 - InCompleteRun, InCompleteRun2
 5. 폰켓몬 - PokenMonEx, PokenMonEx2
+6. H-Index - HindexEx
 
 ## Exercise
 1. MVC + 계층 구조(Entity → Repository → Service → Controller) 를 한 파일에서 실행 - mvp
