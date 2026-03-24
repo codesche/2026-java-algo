@@ -39,6 +39,7 @@
 5. 보안 + 성능을 고려한 주문 처리 시스템 - realorder package
 6. 로봇 팔 시뮬레이션 실행 - robotsystem package
 7. 병원 진료예약 시스템 - hspt package
+8. 학생 성적 관리 시스템 - studymanage package
 
 ## education
 1. Java 기초 통합 실습
