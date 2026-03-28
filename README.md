@@ -41,6 +41,7 @@
 7. 병원 진료예약 시스템 - hspt package
 8. 학생 성적 관리 시스템 - studymanage package
 9. 직원 연봉 관리 with Lambda & Stream - backtothebasic package
+10. 비즈니스 로직 훈련 실습 - hotbusinesslogic
 
 ## education
 1. Java 기초 통합 실습
