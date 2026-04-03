@@ -42,6 +42,7 @@
 8. 학생 성적 관리 시스템 - studymanage package
 9. 직원 연봉 관리 with Lambda & Stream - backtothebasic package
 10. 비즈니스 로직 훈련 실습 - hotbusinesslogic
+11. 기본 연산 - backtothebasic package
 
 ## education
 1. Java 기초 통합 실습
