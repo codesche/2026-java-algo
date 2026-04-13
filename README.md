@@ -1,7 +1,7 @@
 
 # 26년 1월 26일 Java Algorithm 및 개념, 자료구조, 여러 유형 실습한 내용 정리
 
-## theory
+## theory + algorithm
 1. IOException과 br.readLine() 을 활용하는 이유 - IOExceptionMain
 2. List의 개념과 이론, 실습 (List는 순서와 중복이 있음, 반복 중 삭제는 Iterator) - ListExample
 3. Java String 핵심 이론, 실습 - StringExample
@@ -22,6 +22,7 @@
 18. 이진 탐색 - BinarySearchEx
 19. 그리디 + 우선순위 큐 - GreedyPriorityQueueEx
 20. Sliding Window - SlidingWindowEx
+21. 맵 - MapEx
 
 ## 데일리 알고리즘
 1. 두 수의 합 찾기 - TwoSumEx
