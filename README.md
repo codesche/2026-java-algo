@@ -34,6 +34,7 @@
 
 ## datatype
 1. SetEx - Set 자료구조 학습
+2. LambdaWithStreamEx1 - 람다 & 스트림 샘플링 코드 정리
 
 ## Exercise
 1. MVC + 계층 구조(Entity → Repository → Service → Controller) 를 한 파일에서 실행 - mvp
