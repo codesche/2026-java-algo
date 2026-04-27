@@ -23,6 +23,7 @@
 19. 그리디 + 우선순위 큐 - GreedyPriorityQueueEx
 20. Sliding Window - SlidingWindowEx
 21. 맵 - MapEx
+22. 기본 알고리즘 학습 - BasicAlgoEx
 
 ## 데일리 알고리즘
 1. 두 수의 합 찾기 - TwoSumEx
