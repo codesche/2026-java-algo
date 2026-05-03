@@ -51,6 +51,7 @@
 10. 비즈니스 로직 훈련 실습 - hotbusinesslogic
 11. 기본 연산 - backtothebasic package
 12. 로컬 캐싱 - backtothebasic package, LocalCaching
+13. Warm-up 진행 - backtothebasic package
 
 ## education
-1. Java 기초 통합 실습
+1. Java 기초 통합 실습 - education
