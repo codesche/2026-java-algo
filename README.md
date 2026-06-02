@@ -55,6 +55,7 @@
 12. 로컬 캐싱 - backtothebasic package, LocalCaching
 13. Warm-up 진행 - backtothebasic package
 14. 잃어버린 코딩의 흥미 되찾기 - BacktotheRomance
+15. Stream + Functional Thinking - StreamFunctionEx
 
 ## education
 1. Java 기초 통합 실습 - education
